@@ -37,3 +37,20 @@ cursor: pointer;
 .text{
   color:white;
 }
+/* main */
+
+.section-tittle{
+   display: flex;
+   justify-content: space-between;
+   margin: 80px 120px;
+   gap: auto;
+}
+.section-greeting{
+  color: #252432;
+}
+.img{
+  border-radius: 48px;
+}
+.resume{
+    margin-top: 70px;
+}
